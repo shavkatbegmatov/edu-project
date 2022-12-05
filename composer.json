@@ -1,0 +1,16 @@
+{
+    "name": "begmatov/edu-project",
+    "description": "I's my first pure php project",
+    "autoload": {
+        "psr-4": {
+            "Begmatov\\EduProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHAVKAT BEGMATOV",
+            "email": "fstudioadm@gmail.com"
+        }
+    ],
+    "require": {}
+}
